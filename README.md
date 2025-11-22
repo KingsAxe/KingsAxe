@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Kingsley Ohere**
+# **Kingsley Ohere**
 ### **Data Scientist • Software Enthusiast**
 
 I design and implement **data-driven solutions** that turn raw information into actionable insights.  
@@ -8,12 +8,12 @@ I work across the full **data lifecycle** — from data collection and ETL pipel
 
 ## 🚀 About Me
 
-- 🔹 Experienced in **data collection, ETL, and pipeline design**  
-- 🔹 Skilled in **data cleaning, feature engineering, and statistical analysis**  
-- 🔹 Building **predictive models and ML workflows** with **scikit-learn** and related tools  
-- 🔹 Experienced in **deployment of models and APIs** for production systems  
-- 🔹 Familiar with **data collection from VoIP and distributed systems** to support analytics  
-- 🔹 Strong foundation in Python, SQL, TypeScript, Bash, Docker, and Git for data engineering and reproducible workflows  
+- Experienced in **data collection, ETL, and pipeline design**  
+- Skilled in **data cleaning, feature engineering, and statistical analysis**  
+- Building **predictive models and ML workflows** with **scikit-learn** and related tools  
+- Experienced in **deployment of models and APIs** for production systems  
+- Familiar with **data collection from VoIP and distributed systems** to support analytics  
+- Strong foundation in Python, SQL, TypeScript, Bash, Docker, and Git for data engineering and reproducible workflows  
 
 ---
 
