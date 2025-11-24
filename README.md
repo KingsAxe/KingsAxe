@@ -1,5 +1,5 @@
 ## Welcome to my space, I'm **Kingsley Ohere**
-### **Data Scientist • Software Enthusiast**
+### **Data Scientist • Software Engineer**
 
 I design and implement **data-driven solutions** turning raw data into well presented information to act on.  
 I've experience working across the full **data lifecycle** — from data collection and ETL pipelines to model development, deployment, and visualization. With the aim of helping organizations make informed decisions.
