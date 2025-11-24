@@ -85,10 +85,10 @@ Using 10,000 customer records with engineered driving features, this project app
 ---
 
 ## 🌐 Connect With Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN_URL)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kingsley-ohere)
+<!--  
 [![X](https://img.icons8.com/ios-filled/50/000000/twitterx.png)](YOUR_X_URL)
-
+-->
 ---
 
-### ⭐ **Thanks for visiting — explore my notebooks, pipelines, and data solutions!**
+### ⭐ **Thanks for visiting — explore my notebooks, applications, and data solutions!**
