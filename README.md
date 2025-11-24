@@ -8,13 +8,12 @@ I've experience working across the full **data lifecycle** — from data collect
 
 ## 🚀 About Me
 
-- Experienced in **data collection, ETL, and pipeline design**  
-- Skilled in **data cleaning, feature engineering, and statistical analysis**  
-- Building **predictive models and ML workflows** with **scikit-learn** and related tools  
-- Experienced in **deployment of models and APIs** for production systems  
-- Familiar with **data collection from VoIP and distributed systems** to support analytics  
-- Strong foundation in Python, SQL, TypeScript, Bash, Docker, and Git for data engineering and reproducible workflows  
-
+- Experienced in **data collection, ETL development, and pipeline design** for both structured and semi-structured data  
+- Skilled in **data cleaning, feature engineering, and statistical analysis** to prepare high-quality modeling datasets  
+- Building **predictive models and ML workflows** using **scikit-learn** and other core machine learning libraries  
+- Experienced in **deploying machine learning models and APIs** for production-ready applications  
+- Familiar with **data extraction from VoIP and distributed systems** to support analytics and monitoring  
+- Strong foundation in **Python, SQL, ETL pipelines, and feature engineering**, combined with solid skills in **statistics, machine learning, visualization**, and **reproducible deployment** using **Docker and Git**
 ---
 
 ### 📊 **Data Science Notebook Collection**
