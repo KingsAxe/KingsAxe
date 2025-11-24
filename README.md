@@ -1,8 +1,8 @@
-# **Kingsley Ohere**
+#Welcome to my space, I'm **Kingsley Ohere**
 ### **Data Scientist • Software Enthusiast**
 
-I design and implement **data-driven solutions** that turn raw information into actionable insights.  
-I work across the full **data lifecycle** — from data collection and ETL pipelines to model development, deployment, and visualization — helping organizations make informed decisions.
+I design and implement **data-driven solutions** turning raw data into well presented information to act on.  
+I've experience working across the full **data lifecycle** — from data collection and ETL pipelines to model development, deployment, and visualization. With the aim of helping organizations make informed decisions.
 
 ---
 
@@ -21,34 +21,42 @@ I work across the full **data lifecycle** — from data collection and ETL pipel
 A curated set of notebooks spanning:  
 - Health analytics  
 - Engineering and IoT analytics  
-- Predictive modeling and ML workflows  
+- Predictive modeling and ML workflows
+- Model deployment and maintenance  
 - Exploratory Data Analysis (EDA)  
 - Visualization and reporting  
 
-_Add your repo link here._
 ## 📌 Projects
 
 Here are some of my key projects. Click the titles to visit the repositories. You can also add images/screenshots for each project.
 
-### [Multi-Tenant ARI System](YOUR_PROJECT_REPO_LINK)
-![Multi-Tenant ARI Image](YOUR_IMAGE_LINK)
-- A scalable system for collecting data from VoIP platforms and building analytics pipelines.
-- Supports real-time data workflows and dashboard integration.
+### 🩺 Health Data Feature Engineering  
+Cleaned and merged multiple health datasets, engineered new features, handled missing values, and built predictive models to extract insights from demographic, blood pressure, and cholesterol records.
 
-### [Data Science Notebook Collection](YOUR_PROJECT_REPO_LINK)
-![Notebook Collection Image](YOUR_IMAGE_LINK)
-- Curated notebooks covering health and engineering analytics.
-- Includes predictive modeling, feature engineering, and visualization examples.
+🔗 **Repo:** [health-data-feature-engineering](https://github.com/KingsAxe/health-data-feature-engineering)
 
-### [ETL Pipelines & Data Workflows](YOUR_PROJECT_REPO_LINK)
-![ETL Pipelines Image](YOUR_IMAGE_LINK)
-- End-to-end data pipelines for cleaning, transformation, and loading into analytics systems.
-- Built using Python, SQL, and Docker for reproducibility.
+**Tags:**  
+`Machine Learning` `Data Cleaning` `Feature Engineering` `Exploratory Analysis`  
+`ETL / Pipelines` `Notebook Project` `Visualization`  
 
-### [Predictive Modeling & ML Deployment](YOUR_PROJECT_REPO_LINK)
-![Predictive Modeling Image](YOUR_IMAGE_LINK)
-- Models developed using scikit-learn, trained on real-world datasets.
-- Deployed via FastAPI for production-ready API endpoints.
+#### 📸 Preview
+
+<img src="https://raw.githubusercontent.com/KingsAxe/health-data-feature-engineering/main/image/Screenshot%202025-11-22%20153059.png" width="600">
+---
+### 🚗 Driver Behavior Clustering  
+Developed a driver behavior clustering model for an auto-insurance company to support personalized pricing.  
+Using 10,000 customer records with engineered driving features, this project applies unsupervised learning to segment drivers into meaningful groups.
+
+🔗 **Repo:** [driver-behavior-clustering](https://github.com/KingsAxe/driver-behavior-clustering)
+
+**Tags:**  
+`Machine Learning` `Clustering` `Model Evaluation` `Notebook Project` `Unsupervised Learning`  
+
+#### 📸 Preview
+
+<img src="https://raw.githubusercontent.com/KingsAxe/driver-behavior-clustering/main/images/Screenshot%202025-11-22%20152813.png" width="600">
+
+<img src="https://raw.githubusercontent.com/KingsAxe/driver-behavior-clustering/main/images/Screenshot%202025-11-22%20153010.png" width="600">
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -74,32 +82,6 @@ Here are some of my key projects. Click the titles to visit the repositories. Yo
 ### **Other Tools**
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Jupyter](https://skillicons.dev/icons?i=jupyter)
-
----
-
-## 📂 Repository Categories
-
-### **Data Science Projects**
-- Health analytics notebooks  
-- Engineering and IoT notebooks  
-- Predictive modeling pipelines  
-- EDA & visualization projects  
-- Deployment-ready ML models  
-
-### **Data Engineering & Systems**
-- Multi-tenant ARI System (data collection focus)  
-- ETL pipelines  
-- API and backend integration for analytics  
-
----
-
-## 📈 GitHub Stats (Optional — enable by removing comment tags)
-
-<!--
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
--->
-
 ---
 
 ## 🌐 Connect With Me
