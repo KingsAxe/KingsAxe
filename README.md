@@ -1,4 +1,4 @@
-#Welcome to my space, I'm **Kingsley Ohere**
+## Welcome to my space, I'm **Kingsley Ohere**
 ### **Data Scientist • Software Enthusiast**
 
 I design and implement **data-driven solutions** turning raw data into well presented information to act on.  
