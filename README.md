@@ -29,6 +29,22 @@ A curated set of notebooks spanning:
 
 Here are some of my key projects. Click the titles to visit the repositories. You can also add images/screenshots for each project.
 
+### 🎙️ Voice Support Intent Classification & Analytics  
+This project turns raw customer conversations into structured intelligence using clustering, NLP, and a lightweight Streamlit interface to predict customer needs in real-time. It demonstrates how to build operational value even with small datasets by focusing on explainability and risk flagging.
+
+🔗 **Repo:** [Voice-Support-Intent-Classification-and-Analytics](https://github.com/KingsAxe/Voice-Support-Intent-Classification-and-Analytics)
+
+**Tags:** `NLP` `Clustering` `Streamlit` `Explainable AI`  
+`Customer Ops` `Python` `Classification`  
+
+#### 📸 Preview
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/KingsAxe/Voice-Support-Intent-Classification-and-Analytics/main/Images/githubDemo.gif" width="600" alt="NLP Project Demo">
+</p>
+
+---
+
 ### 🩺 Health Data Feature Engineering  
 Cleaned and merged multiple health datasets, engineered new features, handled missing values, and built predictive models to extract insights from demographic, blood pressure, and cholesterol records.
 
@@ -37,10 +53,6 @@ Cleaned and merged multiple health datasets, engineered new features, handled mi
 **Tags:**  
 `Machine Learning` `Data Cleaning` `Feature Engineering` `Exploratory Analysis`  
 `ETL / Pipelines` `Notebook Project` `Visualization`  
-
-#### 📸 Preview
-
-<img src="https://raw.githubusercontent.com/KingsAxe/health-data-feature-engineering/main/image/Screenshot%202025-11-22%20153059.png" width="600">
 
 ---
 
