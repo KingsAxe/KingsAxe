@@ -67,7 +67,7 @@ Using 10,000 customer records with engineered driving features, this project app
 
 #### 📸 Preview
 
-<img src="https://raw.githubusercontent.com/KingsAxe/driver-behavior-clustering/main/images/Screenshot%202025-11-22%20152813.png" width="600">
+<!-- <img src="https://raw.githubusercontent.com/KingsAxe/driver-behavior-clustering/main/images/Screenshot%202025-11-22%20152813.png" width="600"> -->
 
 <img src="https://raw.githubusercontent.com/KingsAxe/driver-behavior-clustering/main/images/Screenshot%202025-11-22%20153010.png" width="600">
 
