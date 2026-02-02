@@ -1,7 +1,10 @@
 # About Me :
 AI Engineer building production-grade NLP and ML systems with a strong emphasis on usability, safety, and real-world impact. Experienced in NL → SQL, RAG pipelines, unstructured data processing, and end-to-end ML system design across research and consulting environments. Actively working at the intersection of applied research and deployment.
 
-## Socials
+## 🌐 Portfolio & Socials
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kingsley%20Ohere-%230A2A5E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kingsaxe.github.io/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kingsley-ohere) 
 
 # Tech Stack
