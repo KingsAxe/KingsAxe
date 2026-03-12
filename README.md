@@ -26,7 +26,7 @@ I work across the full lifecycle of AI systems, from data ingestion and pipeline
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-4B8BBE?style=for-the-badge)
 
-## Data Engineering / Platforms
+## Data Engineering
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
@@ -39,7 +39,7 @@ I work across the full lifecycle of AI systems, from data ingestion and pipeline
 ![Curated Data Layers](https://img.shields.io/badge/Curated%20Data%20Layers-0F766E?style=for-the-badge)
 ![KPI Marts](https://img.shields.io/badge/KPI%20Marts-B45309?style=for-the-badge)
 
-## Deployment / APIs / MLOps
+## Deployment / MLOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,13 +71,11 @@ I work across the full lifecycle of AI systems, from data ingestion and pipeline
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-475569?style=for-the-badge)
 ![Cross-functional Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-0F172A?style=for-the-badge)
 ![Mentorship](https://img.shields.io/badge/Mentorship-7C3AED?style=for-the-badge)
-![Consulting Delivery](https://img.shields.io/badge/Consulting%20Delivery-166534?style=for-the-badge)
 
 ## Domains
 ![FinTech](https://img.shields.io/badge/FinTech-0F766E?style=for-the-badge)
 ![E--Commerce](https://img.shields.io/badge/E--Commerce-1D4ED8?style=for-the-badge)
 ![Healthcare](https://img.shields.io/badge/Healthcare-DC2626?style=for-the-badge)
 ![Retail](https://img.shields.io/badge/Retail-7C2D12?style=for-the-badge)
-![Pharmaceuticals](https://img.shields.io/badge/Pharmaceuticals-6D28D9?style=for-the-badge)
 ![Consulting](https://img.shields.io/badge/Consulting-334155?style=for-the-badge)
 ![Business Services](https://img.shields.io/badge/Business%20Services-065F46?style=for-the-badge)
