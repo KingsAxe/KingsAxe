@@ -79,3 +79,9 @@ I work across the full lifecycle of AI systems, from data ingestion and pipeline
 ![Retail](https://img.shields.io/badge/Retail-7C2D12?style=for-the-badge)
 ![Consulting](https://img.shields.io/badge/Consulting-334155?style=for-the-badge)
 ![Business Services](https://img.shields.io/badge/Business%20Services-065F46?style=for-the-badge)
+
+### Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KingsAxe&icon=0&color=0)](https://visitcount.itsvg.in)
