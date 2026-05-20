@@ -1,10 +1,14 @@
 # About Me
 
-AI/ML Engineer building production-oriented intelligent systems across NLP, LLM applications, retrieval-augmented generation (RAG), and data-driven decision support.
+AI/ML Engineer building production-oriented intelligent systems across NLP, LLM applications, retrieval-augmented generation, and data-driven decision support.
 
-My work focuses on turning messy, real-world data into usable systems through strong backend architecture, practical model design, and clear user-facing delivery. I’m especially interested in API-backed ML services, NL→SQL systems, local-first and privacy-preserving RAG pipelines, cloud-based analytics workflows, and applied AI products that solve real operational problems.
+My work focuses on turning messy real-world data into usable AI/data products through practical model design, reliable backend architecture, and clear user-facing delivery.
 
-I work across the full lifecycle of AI systems, from data ingestion and pipeline design to modeling, evaluation, deployment, and iteration.
+On this GitHub, you’ll find projects around document intelligence, local-first RAG systems, customer feedback analytics, sentiment intelligence, risk segmentation, churn prediction, ML dashboards, FastAPI services, and data pipelines.
+
+I work across the full lifecycle of AI systems: data ingestion, preprocessing, modelling, evaluation, API development, deployment, monitoring, and iteration.
+
+I’m especially interested in applied AI products that solve real operational problems for startups, product teams, consulting teams, and data-driven businesses.
 
 ## 🌐 Portfolio & Socials
 
